@@ -1,0 +1,107 @@
+Greedy Small_15
+Minimum Cost = 200
+0.0 ms
+
+27.07421875 MB
+
+Branch and Bound Small_15
+Minimum Cost = 194
+1.1286735534667969 ms
+
+27.08203125 MB
+
+Greedy Small_20
+Minimum Cost = 239
+0.0 ms
+
+27.08203125 MB
+
+Branch and Bound Small_20
+Minimum Cost = 190
+6.979227066040039 ms
+
+27.0859375 MB
+
+Greedy Small_25
+Minimum Cost = 174
+0.0 ms
+
+27.0859375 MB
+
+Branch and Bound Small_25
+Minimum Cost = 145
+44.13771629333496 ms
+
+27.0859375 MB
+
+Greedy Medium_15
+Minimum Cost = 513
+0.0 ms
+
+27.0859375 MB
+
+Branch and Bound Medium_15
+Minimum Cost = 442
+6.000280380249023 ms
+
+27.12890625 MB
+
+Greedy Medium_20
+Minimum Cost = 350
+0.0 ms
+
+27.12890625 MB
+
+Branch and Bound Medium_20
+Minimum Cost = 273
+237.14280128479004 ms
+
+27.13671875 MB
+
+Greedy Medium_25
+Minimum Cost = 268
+0.9925365447998047 ms
+
+27.13671875 MB
+
+Branch and Bound Medium_25
+Minimum Cost = 231
+726.5255451202393 ms
+
+27.140625 MB
+
+Greedy Large_15
+Minimum Cost = 726
+3.9854049682617188 ms
+
+27.484375 MB
+
+Branch and Bound Large_15
+Minimum Cost = 712
+13.538360595703125 ms
+
+27.515625 MB
+
+Greedy Large_20
+Minimum Cost = 665
+3.528594970703125 ms
+
+27.515625 MB
+
+Branch and Bound Large_20
+Minimum Cost = 614
+1040.449857711792 ms
+
+27.6796875 MB
+
+Greedy Large_25
+Minimum Cost = 675
+5.527973175048828 ms
+
+27.6796875 MB
+
+Branch and Bound Large_25
+Minimum Cost = 556
+42749.65476989746 ms
+
+27.7265625 MB
